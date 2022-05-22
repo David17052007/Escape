@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+   .header__navbar{
+       display: none;
+   }
+    .mobile-navbar{
+        height: 74px;
+        display: flex;
+    }
+}
